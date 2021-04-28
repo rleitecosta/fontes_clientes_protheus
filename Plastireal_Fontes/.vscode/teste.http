@@ -1,4 +1,0 @@
-GET http://engreflonplasticos105324.protheus.cloudtotvs.com.br:4040/rest/WSRESTEFFPRD/GetProduto?Emp=01&Fil=01&Cod=007901 
-header name: header value
-
-content
